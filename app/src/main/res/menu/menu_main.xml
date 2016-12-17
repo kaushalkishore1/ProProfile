@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:myapp="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.k2infosoft.proprofile.MainActivity">
+    <item
+        android:id="@+id/item1"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="Camera"
+        myapp:showAsAction="never" />
+    <item
+        android:id="@+id/item2"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="Open_Gallery"
+        myapp:showAsAction="never" />
+    <item
+        android:id="@+id/item3"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="Remove"
+        myapp:showAsAction="never" />
+</menu>

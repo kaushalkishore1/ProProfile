@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ProProfile</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="personal_info">Personal Info:</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="female">Female</string>
+    <string name="email_id">Email</string>
+    <string name="mobile_no">Mobile no</string>
+
+    <string name="dob">DOB</string>
+    <string name="gender">Gender</string>
+    <string name="button">Button</string>
+    <string name="selected">Selected</string>
+    <string name="causes">causes</string>
+    <string name="phone">Phone</string>
+    <string name="rotary_text">Profile Info </string>
+    <string name="location">Location</string>
+    <string name="name">Name</string>
+    <string name="save">SAVE</string>
+    <string name="cmbo">Code My Brains Out</string>
+    <string name="profile">Profile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
